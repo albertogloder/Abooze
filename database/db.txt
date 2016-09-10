@@ -1,0 +1,14 @@
+Whiskey Cola;Whiskey,Cola,Ice;2/5 Whiskey 3/5 Cola and ice;2
+Dry Martini;Gin,Vermouth,Ice;5/6 Gin 1/6 Vermouth;1
+Mint Julep;Mint,Bourbon,Soda;1/2 Bourbon & Soda + mint;5
+Mimosa;Champagne,Orange Juice;3/4 Champagne 1/4 Orange Juice;2
+Cuba libre;rum,cola;2/5 rum 3/5 cola;3
+Gin Tonic;Gin,tonic;2/5 Gin 3/5 tonic and ice;1
+Gin Lemon;Gin,Lemon,soda;1/3 Gin 2/3 Lemon soda ice;2
+Long island;Vodka,Gin,Rum,Tequila;1/4 each and ice;4
+Malibu cola;Malibu,Cola;1/5 Malibu 4/5 Cola and ice;2
+Whiskey light;Whiskey,sprite;2/3 Whiskey, 1/3 Sprite;2
+Screwdriver;Vodka,Orange;1/3 Vodka 2/3 Orange ice;2
+Campari soda;Campari,soda;2/3 Campari 1/3 soda;1
+Whiskey lemon;whiskey,lemon;1/2 whiskey 1/2 lemon;4
+Armadio4;Decade6;Coppia 3;2
